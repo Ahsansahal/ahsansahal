@@ -3,11 +3,11 @@
 
 ### <p align="center">![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ahsansahal&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=4590)</p>
 
-- :seedling: I’m continuously studying **Software Engineering**
-- :male-technologist: Check out my projects at [mhrizwan.com](https://mhrizwan.com)
-- :speech_balloon: Ask me about **Frontend, Backend, and APIs**
-- :mailbox: Reach me at **ahsan.sahal92@gmail.com**
-- :page_facing_up: Learn more about my experience: [My Resume](https://rxresu.me/ahsansahal/frontend-developer)
+🌱 I’m continuously studying Software Engineering  
+👨‍💻 Check out my projects at [ahsansahal.com](https://ahsansahal.com)  
+💬 Ask me about Frontend, Backend, and APIs  
+📫 Reach me at ahsan.sahal92@gmail.com  
+📄 Learn more about my experience: [My Resume](https://rxresu.me/ahsansahal/frontend-developer)  
 
 
 <p align="center">
